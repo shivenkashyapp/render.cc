@@ -8,3 +8,5 @@ To run:
 ```
 python main.py
 ```
+
+[Python Rasterization Demo](../../screenshots/python-rasterization-simple.png)
